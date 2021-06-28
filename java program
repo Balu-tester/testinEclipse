@@ -3,6 +3,10 @@ public class MyFirstProgram {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Java");
+		System.out.println("This is Balu");
+		System.out.println("Im from vizag");
+		System.out.println("working as a Software Engineer");
+		
 
 	}
 
