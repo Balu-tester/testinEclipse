@@ -8,6 +8,9 @@ public class MyFirstProgram {
 		System.out.println("Im from vizag");
 		System.out.println("working as a Software Engineer");
 		
+		System.out.println("Hello Balu");
+		System.out.println("How r u");
+		System.out.println("This is Bhanu");
 		
 
 	}
